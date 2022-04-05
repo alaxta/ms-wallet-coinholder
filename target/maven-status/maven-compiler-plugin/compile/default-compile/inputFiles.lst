@@ -1,0 +1,14 @@
+C:\Users\atuestaa\Documents\GitHubBootcoin\ms-wallet-coinholder\src\main\java\pe\com\project4\ms\infrastructure\event\WalletCoinAccountCreatedEvent.java
+C:\Users\atuestaa\Documents\GitHubBootcoin\ms-wallet-coinholder\src\main\java\pe\com\project4\ms\infrastructure\persistence\model\WalletCoinHolderDao.java
+C:\Users\atuestaa\Documents\GitHubBootcoin\ms-wallet-coinholder\src\main\java\pe\com\project4\ms\application\CreateWalletCoinHolderUseCase.java
+C:\Users\atuestaa\Documents\GitHubBootcoin\ms-wallet-coinholder\src\main\java\pe\com\project4\ms\infrastructure\persistence\mongodb\IWalletCoinHolderReactiveMongoRepository.java
+C:\Users\atuestaa\Documents\GitHubBootcoin\ms-wallet-coinholder\src\main\java\pe\com\project4\ms\domain\WalletHolder.java
+C:\Users\atuestaa\Documents\GitHubBootcoin\ms-wallet-coinholder\src\main\java\pe\com\project4\ms\application\repository\WalletCoinHolderRepository.java
+C:\Users\atuestaa\Documents\GitHubBootcoin\ms-wallet-coinholder\src\main\java\pe\com\project4\ms\infrastructure\consumer\WalletCoinHolderKafkaConsumer.java
+C:\Users\atuestaa\Documents\GitHubBootcoin\ms-wallet-coinholder\src\main\java\pe\com\project4\ms\infrastructure\producer\WalletCoinHolderKafkaProducer.java
+C:\Users\atuestaa\Documents\GitHubBootcoin\ms-wallet-coinholder\src\main\java\pe\com\project4\ms\application\impl\CreateWalletCoinHolderService.java
+C:\Users\atuestaa\Documents\GitHubBootcoin\ms-wallet-coinholder\src\main\java\pe\com\project4\ms\infrastructure\rest\WalletCoinHolderRouter.java
+C:\Users\atuestaa\Documents\GitHubBootcoin\ms-wallet-coinholder\src\main\java\pe\com\project4\ms\domain\DocumentType.java
+C:\Users\atuestaa\Documents\GitHubBootcoin\ms-wallet-coinholder\src\main\java\pe\com\project4\ms\infrastructure\persistence\mongodb\WalletCoinHolderReactiveMongoRepository.java
+C:\Users\atuestaa\Documents\GitHubBootcoin\ms-wallet-coinholder\src\main\java\pe\com\project4\ms\MsWalletCoinHolderApplication.java
+C:\Users\atuestaa\Documents\GitHubBootcoin\ms-wallet-coinholder\src\main\java\pe\com\project4\ms\infrastructure\rest\WalletCoinHolderHandler.java

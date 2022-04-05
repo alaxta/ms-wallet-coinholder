@@ -1,0 +1,14 @@
+pe\com\project4\ms\infrastructure\rest\WalletCoinHolderHandler.class
+pe\com\project4\ms\infrastructure\persistence\mongodb\IWalletCoinHolderReactiveMongoRepository.class
+pe\com\project4\ms\infrastructure\rest\WalletCoinHolderRouter.class
+pe\com\project4\ms\application\impl\CreateWalletCoinHolderService.class
+pe\com\project4\ms\infrastructure\producer\WalletCoinHolderKafkaProducer.class
+pe\com\project4\ms\infrastructure\event\WalletCoinAccountCreatedEvent.class
+pe\com\project4\ms\infrastructure\persistence\model\WalletCoinHolderDao.class
+pe\com\project4\ms\application\CreateWalletCoinHolderUseCase.class
+pe\com\project4\ms\application\repository\WalletCoinHolderRepository.class
+pe\com\project4\ms\domain\WalletHolder.class
+pe\com\project4\ms\infrastructure\consumer\WalletCoinHolderKafkaConsumer.class
+pe\com\project4\ms\infrastructure\persistence\mongodb\WalletCoinHolderReactiveMongoRepository.class
+pe\com\project4\ms\domain\DocumentType.class
+pe\com\project4\ms\MsWalletCoinHolderApplication.class
